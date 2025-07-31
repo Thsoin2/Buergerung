@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Buergerung/static/css/main.b96690e7.css",
+    "main.js": "/Buergerung/static/js/main.d202a8de.js",
+    "index.html": "/Buergerung/index.html",
+    "main.b96690e7.css.map": "/Buergerung/static/css/main.b96690e7.css.map",
+    "main.d202a8de.js.map": "/Buergerung/static/js/main.d202a8de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96690e7.css",
+    "static/js/main.d202a8de.js"
+  ]
+}
