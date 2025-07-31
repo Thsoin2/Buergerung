@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Buergerung/static/css/main.b96690e7.css",
-    "main.js": "/Buergerung/static/js/main.d202a8de.js",
+    "main.js": "/Buergerung/static/js/main.70824f70.js",
     "index.html": "/Buergerung/index.html",
     "main.b96690e7.css.map": "/Buergerung/static/css/main.b96690e7.css.map",
-    "main.d202a8de.js.map": "/Buergerung/static/js/main.d202a8de.js.map"
+    "main.70824f70.js.map": "/Buergerung/static/js/main.70824f70.js.map"
   },
   "entrypoints": [
     "static/css/main.b96690e7.css",
-    "static/js/main.d202a8de.js"
+    "static/js/main.70824f70.js"
   ]
 }
